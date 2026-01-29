@@ -29,7 +29,7 @@
 ### Recipe App
 - **Description:** Interactive web app to add and filter recipes.  
 - **Tech:** HTML, CSS, JavaScript  
-- **AI Usage:** ChatGPT helped optimize code & generate README text  
+- **AI Usage:** ChatGPT, GitHub Copilot, DeepCode
 
 *(More projects available in repositories)*
 
@@ -39,9 +39,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariamchitrekashvili/overlay/about-this-profile/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=about.me&logoColor=white)](https://github.com/mariam-chitrekashvili/Portfolio.git)  
 
----
 
-## 🤖 How I Use AI in My Career
-- **CV Optimization:** Tailored CVs for IT vacancies  
-- **Motivation Letters:** Structured and polished using AI  
-- **GitHub README:** Enhanced texts with AI suggestions for clarity
+
