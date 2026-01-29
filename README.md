@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mariami Chitrekashvili
+# 👋 Hi, I'm Mariam Chitrekashvili
 
 🎓 **Computer Science Student** at ALTE University  
 💻 Future **Web Developer** & **UI/UX Designer**  
