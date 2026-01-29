@@ -40,4 +40,14 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=about.me&logoColor=white)](https://github.com/mariam-chitrekashvili/Portfolio.git)  
 
 
+## AI instruments:
+
+ChatGPT – code explanation, debugging, algorithms, README writing
+
+GitHub Copilot – AI-powered code autocomplete inside IDEs
+
+Codeium – free AI-based code completion alternative
+
+Snyk (DeepCode) – security vulnerability detection and code quality analysis
+
 
