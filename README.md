@@ -29,7 +29,7 @@
 ### Recipe App
 - **Description:** Interactive web app to add and filter recipes.  
 - **Tech:** HTML, CSS, JavaScript  
-- **AI Usage:** ChatGPT, GitHub Copilot, DeepCode, Gemini, Jobscan
+- **AI Usage:** ChatGPT, GitHub Copilot, DeepCode, Gemini
 
 *(More projects available in repositories)*
 
