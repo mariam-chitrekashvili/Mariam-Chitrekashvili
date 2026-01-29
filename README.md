@@ -37,7 +37,7 @@
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariamchitrekashvili/overlay/about-this-profile/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=about.me&logoColor=white)](https://github.com/mariam-chitrekashvili/Portfolio.git)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=about.me&logoColor=white)]( https://mariam-chitrekashvili.github.io/Portfolio/)  
 
 
 ## AI instruments:
